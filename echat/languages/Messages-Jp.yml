@@ -1,0 +1,56 @@
+################################################
+#                                              #
+#                 プラグインEChat               #
+#             メッセージ システムファイル        #
+#         gopitosssによって作成されたプラグイン   #
+#                                              #
+################################################
+
+## その他のメッセージ ##
+
+no-permissions: "&cこのコマンドを実行する権限がありません"
+error-command-console: "&cこのコマンドは選手のみが実行できる"
+
+## 管理者チャットメッセージ ##
+
+admin-chat-left: "&a管理者チャットモードを終了しました。あなたのメッセージは誰でも見ることができます。"
+admin-chat-join: "&a管理者チャットモードになりました。管理者メンバーだけがあなたのメッセージを見ることができます"
+admin-chat-prefix: "&c[管理者チャット]"
+
+## スタッフチャットメッセージ ##
+
+staff-chat-left: "&aスタッフチャットモードを終了しました。あなたのメッセージは誰でも見ることができます。"
+staff-chat-join: "&aスタッフチャットモードになりました。スタッフのみがあなたのメッセージを見ることができます。"
+staff-chat-prefix: "&b[スタッフ・チャット]"
+
+## クリアチャットメッセージ ##
+
+clearchat-successfully: "&aチャットがクリアされました"
+
+## ブラックリスト入りした言葉など ##
+
+deny-word-message: "&c{word} は入力できません。"
+
+## チャットメッセージをロックする ##
+
+invalid-time: "&c無効な時間形式です。有効な時間を使用してください。"
+global-chat-lock-temporarily: "&aグローバルチャットは {duration} ロックされました。"
+global-chat-lock: "&aグローバルチャットは無期限にロックされました"
+global-chat-locked-message: "&cグローバルチャットは現在ロックされています。ロックが解除されるまでお待ちください。"
+global-chat-unlocked: "&aグローバルチャットがアンロックされました。"
+
+## メッセージと返信 ##
+
+player-not-online: "&cその選手はオンラインではない。"
+error-reply: "&cあなたには返信する相手がいない。"
+## ニック・メッセージ ##
+
+nickname-in-use: "&cこのニックネームは他のプレーヤーによって既に使用されています。"
+nickname-changed: "&aあなたのニックネームは {nick} に変更されました。"
+error-nickname-reset: "&cリセットのニックネームはないだろう。"
+nickname-reset: "&aニックネームがリセットされました。"
+
+# 翻訳 by not_staff
+# github: https://github.com/staFF6773/echat-languages
+
+# ライセンス MIT

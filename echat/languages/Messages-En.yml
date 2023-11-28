@@ -1,0 +1,52 @@
+################################################
+#                                              #
+#                 Plugin EChat                 #
+#             Messages System File             #
+#           Plugin created by gopitosss        #
+#                                              #
+################################################
+
+## OTHER MESSAGES ##
+
+no-permissions: "&cYou do not have permission to execute this command."
+error-command-console: "&cThis command can only be executed by a player."
+
+## ADMIN CHAT MESSAGES ##
+
+admin-chat-left: "&aYou have left Admin Chat mode. Your messages are now visible to everyone."
+admin-chat-join: "&aYou are now in Admin Chat mode. Only admin members can see your messages."
+admin-chat-prefix: "&c[Admin Chat]"
+
+## STAFF CHAT MESSAGES ##
+
+staff-chat-left: "&aYou have left Staff Chat mode. Your messages are now visible to everyone."
+staff-chat-join: "&aYou are now in Staff Chat mode. Only staff members can see your messages."
+staff-chat-prefix: "&b[Staff Chat]"
+
+## CLEAR CHAT MESSAGES ##
+
+clearchat-successfully: "&aChat has been cleared."
+
+## BLACKLISTED WORDS AND MORE ##
+
+deny-word-message: "&cHey! You cannot type {word} because it is prohibited."
+
+## LOCK CHAT MESSAGES ##
+
+invalid-time: "&cInvalid time format. Please use a valid time duration."
+global-chat-lock-temporarily: "&aGlobal chat has been locked for {duration}."
+global-chat-lock: "&aGlobal chat has been locked indefinitely."
+global-chat-locked-message: "&cGlobal chat is currently locked. Please wait until it is unlocked."
+global-chat-unlocked: "&aGlobal chat has been unlocked."
+
+## MESSAGES AND REPLYS ##
+
+player-not-online: "&cThe player is not online."
+error-reply: "&cYou have no one to reply to."
+
+## NICK MESSAGES ##
+
+nickname-in-use: "&cThis nickname is already in use by another player."
+nickname-changed: "&aYour nickname has been changed to {nick}."
+error-nickname-reset: "&cYou don't have a nickname to reset."
+nickname-reset: "&aYour nickname has been reset."

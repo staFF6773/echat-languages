@@ -1,0 +1,58 @@
+################################################
+#                                              #
+#                 Plugin EChat                 #
+#              Archivo de mensajes             #
+#           plugin creado por gopitosss        #
+#                                              #
+################################################
+
+## OTROS MENSAJES ##
+
+no-permissions: "&cNo tienes permiso para ejecutar este comando."
+error-command-console: "&cEste comando sólo puede ejecutarlo un jugador."
+
+## MENSAJES DE CHAT DE ADMINISTRACIÓN ##
+
+admin-chat-left: "&aHas abandonado el modo de chat de administrador. Sus mensajes son ahora visibles para todos."
+admin-chat-join: "&aAhora se encuentra en el modo de chat de administrador. Sólo los administradores pueden ver tus mensajes."
+admin-chat-prefix: "&c[Chat de Admins]"
+
+## MENSAJES DE CHAT DE STAFF ##
+
+staff-chat-left: "&aHas salido del modo Chat de staff. Tus mensajes son ahora visibles para todos."
+staff-chat-join: "&aAhora se encuentra en el modo Chat de staff. Sólo los miembros del staff pueden ver sus mensajes."
+staff-chat-prefix: "&b[Staff Chat]"
+
+## BORRAR MENSAJES DE CHAT ##
+
+clearchat-successfully: "&aEl chat ha sido borrado."
+
+## PALABRAS BLOQUEADAS ##
+
+deny-word-message: "&cHola. No puedes escribir {word} porque esta bloqueada."
+
+## BLOQUEAR MENSAJES DE CHAT ##
+
+invalid-time: "&cFormato de hora no válido. Por favor, utilice una duración de tiempo válida."
+global-chat-lock-temporarily: "&aEl chat global ha sido bloqueado por  {duration}."
+global-chat-lock: "&aEl chat global se ha bloqueado indefinidamente."
+global-chat-locked-message: "&cEl chat global está bloqueado. Espere a que se desbloquee."
+global-chat-unlocked: "&aSe ha desbloqueado el chat global."
+
+## MENSAJES Y RESPUESTAS ##
+
+player-not-online: "&cEl jugador no está conectado."
+error-reply: "&cYou have no one to reply to."
+
+## MENSAJES DE NICK ##
+
+nickname-in-use: "&cEste apodo ya está en uso por otro jugador."
+nickname-changed: "&aTu apodo ha sido cambiado a {nick}."
+error-nickname-reset: "&cUsted no tiene un apodo para restablecer."
+nickname-reset: "&aTu nick ha sido reseteado."
+
+
+# traducción hecha por not_staff
+# github: https://github.com/staFF6773/echat-languages
+
+# LICENCIA MIT

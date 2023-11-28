@@ -1,0 +1,57 @@
+################################################
+#                                              #
+#                 Plugin EChat                 #
+#             Meldungen Systemdatei            #
+#           Plugin erstellt von gopitosss      #
+#                                              #
+################################################
+
+## ANDERE NACHRICHTEN ##
+
+no-permissions: "&cSie haben nicht die Erlaubnis, diesen Befehl auszuführen."
+error-command-console: "&cDieser Befehl kann nur von einem Spieler ausgeführt werden."
+
+## ADMIN-CHAT-NACHRICHTEN ##
+
+admin-chat-left: "&aSie haben den Admin-Chat-Modus verlassen. Ihre Nachrichten sind jetzt für alle sichtbar."
+admin-chat-join: "&aSie befinden sich jetzt im Admin-Chat-Modus. Nur Admin-Mitglieder können Ihre Nachrichten sehen."
+admin-chat-prefix: "&c[Admin Chat]"
+
+## CHAT-NACHRICHTEN DES PERSONALS ##
+
+staff-chat-left: "&aSie haben den Mitarbeiter-Chat-Modus verlassen. Ihre Nachrichten sind jetzt für alle sichtbar."
+staff-chat-join: "&aSie befinden sich jetzt im Mitarbeiter-Chat-Modus. Nur Personalmitglieder können Ihre Nachrichten sehen."
+staff-chat-prefix: "&b[Staff Chat]"
+
+## CHAT-NACHRICHTEN LÖSCHEN ##
+
+clearchat-successfully: "&aDer Chat wurde gelöscht."
+
+## WÖRTER AUF DER SCHWARZEN LISTE UND MEHR ##
+
+deny-word-message: "&cHallo. Sie können {word} nicht eingeben, weil es nicht erlaubt ist."
+
+## CHAT-NACHRICHTEN SPERREN ##
+
+invalid-time: "&cUngültiges Zeitformat. Bitte verwenden Sie eine gültige Zeitdauer."
+global-chat-lock-temporarily: "&aDer globale Chat wurde für {duration} gesperrt."
+global-chat-lock: "&aDer globale Chat wurde auf unbestimmte Zeit gesperrt."
+global-chat-locked-message: "&cDer globale Chat ist derzeit gesperrt. Bitte warten Sie, bis er wieder freigeschaltet wird."
+global-chat-unlocked: "&aDer globale Chat wurde freigeschaltet."
+
+## NACHRICHTEN UND ANTWORTEN ##
+
+player-not-online: "&cDer Spieler ist nicht online."
+error-reply: "&cSie haben niemanden, dem Sie antworten können."
+
+## NICK NACHRICHTEN ##
+
+nickname-in-use: "&cDieser Spitzname wird bereits von einem anderen Spieler verwendet."
+nickname-changed: "&aDein Spitzname wurde in {nick} geändert."
+error-nickname-reset: "&cSie haben keinen Spitznamen zum Zurücksetzen."
+nickname-reset: "&aIhr Nickname wurde zurückgesetzt."
+
+# Übersetzung von not_staff
+# github: https://github.com/staFF6773/echat-languages
+
+# LIZENZ MIT
